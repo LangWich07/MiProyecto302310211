@@ -1,2 +1,3 @@
 "Este es mi primer archivo en Git" 
-"Agregando una nueva l¡nea al archivo" 
+"Agregando una nueva lÂ¡nea al archivo" 
+"Hola soy Luis cambiando el archivo"
